@@ -6,4 +6,4 @@ Remark: "Interference.png" is a graph obtained for an experiment which was done 
 The model used in fitting the theoretical prediction is this one:
 ![equation](https://latex.codecogs.com/gif.latex?I%5Cleft%28%5Ctheta%20%5Cright%20%29%3DI_0%5Cleft%5B%5Cfrac%7B%5Csin%7B%5Cleft%28%5Cfrac%7B%5Cpi%20b%20%5Csin%7B%5Ctheta%7D%7D%7B%5Clambda%7D%5Cright%29%7D%7D%7B%5Cfrac%7B%5Cpi%20b%20%5Csin%7B%5Ctheta%7D%7D%7B%5Clambda%7D%7D%5Cright%5D%5E2%5Cleft%5B%5Ccos%7B%5Cleft%28%5Cfrac%7B%5Cpi%20d%20%5Csin%7B%5Ctheta%7D%7D%7B%5Clambda%7D%5Cright%29%7D%5Cright%5D%5E2)
 
-For appropriate slit widths, centre-to-centre slit distsnces and wavelengths.
+For appropriate slit widths, centre-to-centre slit distances and wavelengths.
